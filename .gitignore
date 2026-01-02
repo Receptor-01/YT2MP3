@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Output files
+MP3/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# yt-dlp / download temp files
+*.part
+*.temp
+*.ytdl
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
